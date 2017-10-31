@@ -7,3 +7,5 @@ At times, the commnads given are used strictly to be a catch all, to ensue the u
 Cheers
 
 If your looking for more, head over to @snarechops [video](http://snarechops.github.io/git/help/2015/02/11/github-basics.html) on the topic 
+
+making a change
